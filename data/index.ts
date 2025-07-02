@@ -59,7 +59,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "A tech lover.",
+    title: "A tech lover..",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
